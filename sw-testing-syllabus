@@ -1,0 +1,146 @@
+Software Testing
+
+Week 1 - 14 MAY: TESTING BASICS
+Lecture 1. Introduction - What is Software Testing?
+  a. What it is not – catching every single bug
+  b. Verification vs Validation
+  c. QA vs QC
+  d. What is a bug, really?
+
+Lecture 2. Testing Basics
+  a. Equivalence classes
+  b. Base cases, edge cases,  success cases, failure cases
+  c. White / Black / Grey Box testing
+  d. Static vs Dynamic Testing
+
+Week 2 - 21 MAY: REQUIREMENTS, TEST PLANS, INTRO TO GIT
+Lecture 3. Requirements Development and Testing
+  a. Testability
+  b. Functional Requirements
+  c. Non-Functional (-ility) Requirements
+    i. Scalability, reliability, usability, etc.
+    ii. Special focus on whether or not it’s testable
+  d. Traceability Matrices
+
+Lecture 4. Test Plans
+  a. Developing a test plan
+  b. Executing a test plan -> test runs
+  c. Test plan/run tracking
+  d. Tying defects to test runs
+
+(SPECIAL TOPIC) Intro to Git
+
+Week 3: 28 MAY: DEFECTS AND AUTOMATED TESTING
+Lecture 5. Defects
+  a. Reporting a defect
+    i. Expected behavior vs observed behavior
+    ii. Descriptiveness
+    iii. Reproducibility, etc.
+  b. Tracking, Triaging and Prioritizing Defects
+
+Lecture 6: Intro to Automated Testing
+  a. Benefits of manual vs automated testing
+  b. Overview of tools used for automated testing (xUnit, rspec, Cucumber, STAF/STAX, etc.)
+  c. Concepts of writing automated tests
+    i. Minimize external dependencies
+    ii. Minimize randomness
+    iii. Expected vs observed behavior
+
+Week 4: 4 JUN: UNIT TESTS AND TDD
+Lecture 7. Writing Unit Tests
+  a. Unit test framework overview
+  b. Execution Steps
+  c. Assertions
+  d. Examples
+  c. Ensuring that tests are testing what you think they are testing
+
+Lecture 8. Test-driven Development
+  a. Concepts
+   i. Red-Green-Refactor
+   ii. Minimal code to pass tests
+   iii. Increase tests to specify behavior
+  b. Benefits and Drawbacks
+  c. Examples
+DUE: Deliverable 1
+
+Week 5: INTERACTING WITH STAKEHOLDERS AND BDD
+Lecture 9. Interacting with Stakeholders
+  a. Who should be involved in stakeholder meetings?  Why?
+  b. Reporting to management/other engineers/users/etc.
+  c. Clarification of user requirements
+  d. Managers, Developers, Testers
+
+Lecture 10: Behavior-Driven Development with Cucumber
+  a. Understanding user's needs
+  b. Big Picture
+  c. Introduction to Cucumber and the Gherkin language
+  a. Using Gherkin with Cucumber
+  b. Developing step definitions for Cucumber tests
+
+Week 6: 11 JUN: WEB TESTING
+Lecture 11: Web Testing with Selenium and Cucumber
+   a. What Selenium is
+   b. How to test websites and web applications
+   c. Examples
+   d. Integrating BDD with Web Testing
+   e. Using Selenium with Cucumber
+MID-TERM
+
+Week 7: 18 JUN: COMBINATORIAL AND PROPERTY-BASED TESTING
+Lecture 12: Pairwise and Combinatorial Testing
+   a. What is pairwise/combinatorial testing?
+
+Lecture 13: Property-Based Testing & Formal Verification
+   a. Theory of property-based testing
+   b. Overview of QuickCheck and writing property-based tests
+   c. An overview of formal verification
+   d. Pros and cons of each kind of testing
+DELIVERABLE 2 DUE
+
+Week 8: 25 JUN: INFORMAL AND PERFORMANCE TESTING
+Lecture 14:. Exploratory, Smoke, Stochastic, and Red Routes Testing
+   a. Definitions
+   b. Their place in the software testing process
+
+Lecture 15. Performance Testing
+  a. Load/stress testing
+  b. Timing
+  c. Resource usage
+  d. Key Performance Indicators (KPI)
+  e. Tools - JProfiler, perfmon, etc.
+  f. Scaling
+
+Week 9: 2 JUL: Writing Testable Code
+Lecture 16: Writing Testable Code
+  a. SOLID principles
+  b. Law of Demeter
+  c. Why testable code tends to be "good code"
+DELIVERABLE 3 DUE
+
+Week 10: 9 JUL: USABILITY TESTING AND TESTING AS A CAREER
+Guest Lecture: Usability Testing
+
+Lecture 17. Special Topics: Testing as a Career
+  a. Quality Analyst
+  b. Software Engineer in Test
+  c. Test Manager
+  d. How to be a good tester
+  e. Soft skills
+  f. How does software testing compare to traditional software engineering?
+
+Week 11: 16 JUL: SECURITY TESTING
+Lecture 18: Security Testing
+  a. Information Security
+  b. Kinds of attacks
+  c. Penetration testing
+  d. Security audits and security planning
+
+WEEK 12: 23 JUL: GRAB BAG
+Lecture 19:
+  a. Topics of Interest
+  b. Review for final
+  c. Feedback from students
+
+WEEK 13: 30 JUL: FINAL EXAM
+CUMULATIVE FINAL EXAM
+DELIVERABLE 4 DUE
