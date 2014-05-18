@@ -14,6 +14,9 @@ Lecture 2. Testing Basics
   d. Static vs Dynamic Testing
 
 Week 2 - 21 MAY: REQUIREMENTS, TEST PLANS, INTRO TO GIT
+
+(SPECIAL TOPIC) Intro to Git
+
 Lecture 3. Requirements Development and Testing
   a. Testability
   b. Functional Requirements
@@ -28,7 +31,6 @@ Lecture 4. Test Plans
   c. Test plan/run tracking
   d. Tying defects to test runs
 
-(SPECIAL TOPIC) Intro to Git
 
 Week 3: 28 MAY: DEFECTS AND AUTOMATED TESTING
 Lecture 5. Defects
