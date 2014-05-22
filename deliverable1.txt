@@ -1,10 +1,10 @@
 IS2955 - Software Testing
 Summer Semester 2014
-&&&&&&&&&&&&&&&&&&&&
+********************
 
 Deliverable 1
-Assigned 15 JANUARY 2014
-Due 27 JANUARY 2014
+Assigned 21 MAY 2014
+Due 4 JUNE 2014
 
 For this assignment, your group will determine the requirements and a test plan for your chosen piece of software (or a subset of it, as discussed).  Additionally, a traceability matrix showing the mapping of test cases to requirements is required.
 
