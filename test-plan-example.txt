@@ -1,0 +1,34 @@
+This is an example of a requirement and test case in a test plan for deliverable 1.
+
+This example shows that when there is one item in an Amazon cart, when it is removed, there are no items in the cart.
+
+REQUIREMENT FUN-NO-MORE-ITEMS: 
+The system shall display an empty cart when there is only one item in a cart, and it has been removed.
+
+TEST CASE:
+
+IDENTIFIER: REMOVE-LAST-ITEM
+
+TEST CASE: Check that when you have a cart with one item, and it is removed, the web site displays that there are no more items in the cart.
+
+PRECONDITIONS:
+User is logged into Amazon.
+User has one item, Finnegans Wake, in the cart.
+Cart should display one item.
+
+INPUT VALUES:
+None
+
+EXECUTION STEPS:
+Navigate web browser to http://www.amazon.com/gp/cart/view.html/ref=gno_cart
+Observe one item in cart - Finnegans Wake
+Click on "Delete" link underneath the entry for Finnegans Wake
+
+OUTPUT VALUES:
+The text "Finnegans Wake was removed from Shopping Cart." should replace the entry for Finnegans Wake.
+
+POSTCONDITIONS:
+The Subtotal value should equal $0.00.
+The Cart icon should display "0".
+
+
