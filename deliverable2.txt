@@ -5,7 +5,7 @@ Deliverable 2
 Assigned 4 JUNE 2014
 Due 18 JUNE 2014
 
-For this assignment, your group will write unit tests for an object or other unit of code.  You will also write about your discoveries, problems that you've had, and problems you would anticipate going forward.
+For this assignment, your group will write unit tests for a class or other unit of code.  You will also write about your discoveries, problems that you've had, and problems you would anticipate going forward.
 
 Additionally, you will submit a link to your tests and code on Github.
 
