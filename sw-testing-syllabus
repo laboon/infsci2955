@@ -65,7 +65,7 @@ Lecture 8. Test-driven Development
   c. Examples
 DUE: Deliverable 1
 
-Week 5: INTERACTING WITH STAKEHOLDERS AND BDD
+Week 5: 11 JUN INTERACTING WITH STAKEHOLDERS AND BDD
 Lecture 9. Interacting with Stakeholders
   a. Who should be involved in stakeholder meetings?  Why?
   b. Reporting to management/other engineers/users/etc.
@@ -79,7 +79,7 @@ Lecture 10: Behavior-Driven Development with Cucumber
   a. Using Gherkin with Cucumber
   b. Developing step definitions for Cucumber tests
 
-Week 6: 11 JUN: WEB TESTING
+Week 6: 18 JUN: WEB TESTING
 Lecture 11: Web Testing with Selenium and Cucumber
    a. What Selenium is
    b. How to test websites and web applications
@@ -87,8 +87,9 @@ Lecture 11: Web Testing with Selenium and Cucumber
    d. Integrating BDD with Web Testing
    e. Using Selenium with Cucumber
 MID-TERM
+DELIVERABLE 2 DUE
 
-Week 7: 18 JUN: COMBINATORIAL AND PROPERTY-BASED TESTING
+Week 7: 2 JUL: COMBINATORIAL AND PROPERTY-BASED TESTING
 Lecture 12: Pairwise and Combinatorial Testing
    a. What is pairwise/combinatorial testing?
 
@@ -97,9 +98,9 @@ Lecture 13: Property-Based Testing & Formal Verification
    b. Overview of QuickCheck and writing property-based tests
    c. An overview of formal verification
    d. Pros and cons of each kind of testing
-DELIVERABLE 2 DUE
+DELIVERABLE 3 ASSIGNED
 
-Week 8: 25 JUN: INFORMAL AND PERFORMANCE TESTING
+Week 8: 9 JUL: INFORMAL AND PERFORMANCE TESTING
 Lecture 14:. Exploratory, Smoke, Stochastic, and Red Routes Testing
    a. Definitions
    b. Their place in the software testing process
@@ -112,15 +113,11 @@ Lecture 15. Performance Testing
   e. Tools - JProfiler, perfmon, etc.
   f. Scaling
 
-Week 9: 2 JUL: Writing Testable Code
+Week 9: 16 JUL: Writing Testable Code
 Lecture 16: Writing Testable Code
   a. SOLID principles
   b. Law of Demeter
   c. Why testable code tends to be "good code"
-DELIVERABLE 3 DUE
-
-Week 10: 9 JUL: USABILITY TESTING AND TESTING AS A CAREER
-Guest Lecture: Usability Testing
 
 Lecture 17. Special Topics: Testing as a Career
   a. Quality Analyst
@@ -130,15 +127,20 @@ Lecture 17. Special Topics: Testing as a Career
   e. Soft skills
   f. How does software testing compare to traditional software engineering?
 
-Week 11: 16 JUL: SECURITY TESTING
+
+DELIVERABLE 3 DUE
+DELIVERABLE 4 ASSIGNED
+
+Week 10: 23 JUL: USABILITY TESTING AND SECURITY TESTING
+Guest Lecture: Usability Testing
+
 Lecture 18: Security Testing
   a. Information Security
   b. Kinds of attacks
   c. Penetration testing
   d. Security audits and security planning
 
-WEEK 12: 23 JUL: GRAB BAG
-Lecture 19:
+Lecture 19: GRAB BAG
   a. Topics of Interest
   b. Review for final
   c. Feedback from students
