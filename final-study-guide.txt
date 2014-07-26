@@ -64,16 +64,7 @@ PERFORMANCE TESTING
 WRITING TESTABLE CODE
 * Basic strategy for testable code
 * The DRY Principle
-* The SOLID Principles
 * The Law of Demeter
-
-USABILITY TESTING
-* Personas
-* Be able to develop a low-fi prototype
-* Effectiveness, efficiency, satisfaction
-* Discount usability testing
-* Think-aloud walkthrough
-* Heuristic evaluation
 
 SECURITY TESTING
 * The CIA/InfoSec Triad
