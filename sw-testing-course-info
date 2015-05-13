@@ -7,13 +7,11 @@ Taught by: Bill Laboon
 Class Time: W 6:00 - 9:15.
 Room: IS 406
 
-Office Hours: TBD
+Office Hours: 5:00 - 6:00
 
 Office hours subject to change based on student feedback.
 
 Contact: bill@billlaboon.com
-
-OR laboon@gmail.com
 
 My Pitt address is wjl23@pitt.edu but I check that much less frequently.
 Please use bill@billlaboon.com OR laboon@gmail.com
@@ -29,18 +27,17 @@ performance testing, and understanding and developing a testing
 process.
 
 Grading:
-         Mid-term Exam............ 15%
-         Final Exam:.............  15%
+         Mid-term Exam............ 10%
+         Final Exam:.............  10%
 
          Group Project:
-           -> Deliverable 1....... 15%
+           -> Deliverable 1....... 10%
            -> Deliverable 2....... 15%
            -> Deliverable 3....... 15%
+           -> Deliverable 4....... 15%
            -> Final Deliverable... 25%
 
-Total: 100%.  The standard University of Pittsburgh grading scale will
-be used.  Class participation may be used to decide grades on the
-borderline.
+Total: The grading scale below shall be used.  Class participation may be used to decide grades on the borderline.
 100-94 A (A+ for extraordinary work)
 93-91	 A-
 90-88	 B+
@@ -89,8 +86,9 @@ Group Project details -
 Students will work in groups of two (which will change for the first
 three deliverables).  These groups will perform the role of QA team on a
 project which can be selected either by themselves, or assigned by the
-instructor.  The final deliverable can be with groups of students'
-own choosing.
+instructor.  The fourth deliverable is to be done individually.  
+The final deliverable can be with groups of students' own choosing, or the
+student may choose to do the work on his or her own..
 
 It is highly recommended that these projects should be in Ruby or Java;
 other languages will not be able to be supported by the instructor.
@@ -100,28 +98,25 @@ the particular project they are working on.  The instructor reserves
 the right to allocate a project to the group, but will work with the
 group to come up with a project which will be of interest to them.
 
-Deliverable 1 - A list of high-level functional and non-functional
-requirements for the software project and a test plan with
-traceability matrix.
+Deliverable 1 - A manual test plan for with traceability matrix for the Coffee Maker Quest game.
 
 Deliverable 2 - Sufficient unit tests for a subset of the
-project's functionality (requirements to be discussed in more detail
+Coffee Maker Quest functionality (requirements to be discussed in more detail
 in class).
 
 Deliverable 3 - Sufficient automated acceptance tests for a
-subset of the project's functionality.  (requirements to be discussed
-in more detail in class).
+subset of a web site's functionality.
+
+Deliverable 4 - Peformance testing of an application.
 
 Final Deliverable -
-  -> Two kinds of specialized testing - combinatorial, performance,
-     etc., as will be discussed in class  This will depend on the project.
-  -> A report on the quality of the project and areas which were or were
-     not tested
-  -> Final sign-off - does the QA team recommend releasing this product?
-     Why or why not?
+  -> This is up to the student.  It should be a testing-based project 
+     of the student's choosing.  In the past, students have done additional
+     web testing, algorithmic analysis, security testing, interviews with
+     QA manager, and more.  
 
 Deliverables must be handed in by close of class on the day that it is
-due.  Late deliverables will be accepted up to two days late with a -30%
+due.  Late deliverables will be accepted up to two days late with a -20%
 penalty.
 
 ****

@@ -1,6 +1,6 @@
 Software Testing
 
-Week 1 - 14 MAY: TESTING BASICS
+Week 1 - 13 MAY: TESTING BASICS
 Lecture 1. Introduction - What is Software Testing?
   a. What it is not – catching every single bug
   b. Verification vs Validation
@@ -13,7 +13,7 @@ Lecture 2. Testing Basics
   c. White / Black / Grey Box testing
   d. Static vs Dynamic Testing
 
-Week 2 - 21 MAY: REQUIREMENTS, TEST PLANS, INTRO TO GIT
+Week 2 - 20 MAY: REQUIREMENTS, TEST PLANS, INTRO TO GIT
 
 (SPECIAL TOPIC) Intro to Git
 
@@ -30,9 +30,9 @@ Lecture 4. Test Plans
   b. Executing a test plan -> test runs
   c. Test plan/run tracking
   d. Tying defects to test runs
+DELIVERABLE 1 ASSIGNED
 
-
-Week 3: 28 MAY: DEFECTS AND AUTOMATED TESTING
+Week 3: 27 MAY: DEFECTS AND AUTOMATED TESTING
 Lecture 5. Defects
   a. Reporting a defect
     i. Expected behavior vs observed behavior
@@ -47,8 +47,9 @@ Lecture 6: Intro to Automated Testing
     i. Minimize external dependencies
     ii. Minimize randomness
     iii. Expected vs observed behavior
+DELIVERABLE 1 DUE
 
-Week 4: 4 JUN: UNIT TESTS AND TDD
+Week 4: 3 JUN: UNIT TESTS AND TDD
 Lecture 7. Writing Unit Tests
   a. Unit test framework overview
   b. Execution Steps
@@ -63,9 +64,9 @@ Lecture 8. Test-driven Development
    iii. Increase tests to specify behavior
   b. Benefits and Drawbacks
   c. Examples
-DUE: Deliverable 1
+DELIVERABLE 2 ASSIGNED
 
-Week 5: 11 JUN INTERACTING WITH STAKEHOLDERS AND BDD
+Week 5: 10 JUN INTERACTING WITH STAKEHOLDERS AND BDD
 Lecture 9. Interacting with Stakeholders
   a. Who should be involved in stakeholder meetings?  Why?
   b. Reporting to management/other engineers/users/etc.
@@ -79,7 +80,7 @@ Lecture 10: Behavior-Driven Development with Cucumber
   a. Using Gherkin with Cucumber
   b. Developing step definitions for Cucumber tests
 
-Week 6: 18 JUN: WEB TESTING
+Week 6: 17 JUN: WEB TESTING
 Lecture 11: Web Testing with Selenium and Cucumber
    a. What Selenium is
    b. How to test websites and web applications
@@ -88,24 +89,14 @@ Lecture 11: Web Testing with Selenium and Cucumber
    e. Using Selenium with Cucumber
 MID-TERM
 DELIVERABLE 2 DUE
-
-Week 7: 2 JUL: COMBINATORIAL AND PROPERTY-BASED TESTING
-Lecture 12: Pairwise and Combinatorial Testing
-   a. What is pairwise/combinatorial testing?
-
-Lecture 13: Property-Based Testing & Formal Verification
-   a. Theory of property-based testing
-   b. Overview of QuickCheck and writing property-based tests
-   c. An overview of formal verification
-   d. Pros and cons of each kind of testing
 DELIVERABLE 3 ASSIGNED
 
-Week 8: 9 JUL: INFORMAL AND PERFORMANCE TESTING
-Lecture 14:. Exploratory, Smoke, Stochastic, and Red Routes Testing
+Week 7: 1 JUL: COMBINATORIAL AND PROPERTY-BASED TESTING
+Lecture 12: Exploratory, Smoke, Stochastic, and Red Routes Testing
    a. Definitions
    b. Their place in the software testing process
 
-Lecture 15. Performance Testing
+Lecture 13. Performance Testing
   a. Load/stress testing
   b. Timing
   c. Resource usage
@@ -113,12 +104,26 @@ Lecture 15. Performance Testing
   e. Tools - JProfiler, perfmon, etc.
   f. Scaling
 
-Week 9: 16 JUL: Writing Testable Code
-Lecture 16: Writing Testable Code
+DELIVERABLE 4 ASSIGNED
+
+Week 8: 8 JUL: INFORMAL AND PERFORMANCE TESTING
+Lecture 14: Pairwise and Combinatorial Testing
+   a. What is pairwise/combinatorial testing?
+   b. How is it useful?
+   c. The mathematics of combinatorial testing
+
+Lecture 15: Writing Testable Code
   a. SOLID principles
   b. Law of Demeter
   c. Why testable code tends to be "good code"
 
+DELIVERABLE 4 DUE
+FINAL DELIVERABLE ASSIGNED
+
+Week 9: 15 JUL: Testing As Part of The SDLC & Business
+
+Lecture 16: Managing and Growing a QA Team
+ 
 Lecture 17. Special Topics: Testing as a Career
   a. Quality Analyst
   b. Software Engineer in Test
@@ -127,11 +132,7 @@ Lecture 17. Special Topics: Testing as a Career
   e. Soft skills
   f. How does software testing compare to traditional software engineering?
 
-
-DELIVERABLE 3 DUE
-DELIVERABLE 4 ASSIGNED
-
-Week 10: 23 JUL: USABILITY TESTING AND SECURITY TESTING
+Week 10: 22 JUL: USABILITY TESTING AND SECURITY TESTING
 Guest Lecture: Usability Testing
 
 Lecture 18: Security Testing
@@ -140,11 +141,6 @@ Lecture 18: Security Testing
   c. Penetration testing
   d. Security audits and security planning
 
-Lecture 19: GRAB BAG
-  a. Topics of Interest
-  b. Review for final
-  c. Feedback from students
-
-WEEK 13: 30 JUL: FINAL EXAM
+WEEK 13: 29 JUL: FINAL EXAM
 CUMULATIVE FINAL EXAM
-DELIVERABLE 4 DUE
+FINAL DELIVERABLE DUE
