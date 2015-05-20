@@ -47,7 +47,6 @@ Lecture 6: Intro to Automated Testing
     i. Minimize external dependencies
     ii. Minimize randomness
     iii. Expected vs observed behavior
-DELIVERABLE 1 DUE
 
 Week 4: 3 JUN: UNIT TESTS AND TDD
 Lecture 7. Writing Unit Tests
@@ -64,6 +63,7 @@ Lecture 8. Test-driven Development
    iii. Increase tests to specify behavior
   b. Benefits and Drawbacks
   c. Examples
+DELIVERABLE 1 DUE
 DELIVERABLE 2 ASSIGNED
 
 Week 5: 10 JUN INTERACTING WITH STAKEHOLDERS AND BDD
