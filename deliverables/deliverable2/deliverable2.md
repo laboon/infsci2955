@@ -1,4 +1,4 @@
-# CS 1699 - Software Testing
+# INFSCI 2955 - Software Testing
 Summer Semester 2015
 DUE 17 JUNE 2015
 
