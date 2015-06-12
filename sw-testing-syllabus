@@ -55,23 +55,24 @@ Lecture 7. Writing Unit Tests
   c. Assertions
   d. Examples
   c. Ensuring that tests are testing what you think they are testing
+DELIVERABLE 1 DUE
+DELIVERABLE 2 ASSIGNED
 
-Lecture 8. Test-driven Development
+Week 5: 10 JUN INTERACTING WITH STAKEHOLDERS AND BDD
+Lecture 8. Interacting with Stakeholders
+  a. Who should be involved in stakeholder meetings?  Why?
+  b. Reporting to management/other engineers/users/etc.
+  c. Clarification of user requirements
+  d. Managers, Developers, Testers
+
+Week 6: 17 JUN: TESTING AND DEVELOPMENT METHODOLOGIES
+Lecture 9. Test-driven Development
   a. Concepts
    i. Red-Green-Refactor
    ii. Minimal code to pass tests
    iii. Increase tests to specify behavior
   b. Benefits and Drawbacks
   c. Examples
-DELIVERABLE 1 DUE
-DELIVERABLE 2 ASSIGNED
-
-Week 5: 10 JUN INTERACTING WITH STAKEHOLDERS AND BDD
-Lecture 9. Interacting with Stakeholders
-  a. Who should be involved in stakeholder meetings?  Why?
-  b. Reporting to management/other engineers/users/etc.
-  c. Clarification of user requirements
-  d. Managers, Developers, Testers
 
 Lecture 10: Behavior-Driven Development with Cucumber
   a. Understanding user's needs
@@ -79,19 +80,30 @@ Lecture 10: Behavior-Driven Development with Cucumber
   c. Introduction to Cucumber and the Gherkin language
   a. Using Gherkin with Cucumber
   b. Developing step definitions for Cucumber tests
+MIDTERM
 
-Week 6: 17 JUN: WEB TESTING
+WEEK 7: 24 JUN: Testing The Web
 Lecture 11: Web Testing with Selenium and Cucumber
    a. What Selenium is
    b. How to test websites and web applications
    c. Examples
    d. Integrating BDD with Web Testing
    e. Using Selenium with Cucumber
-MID-TERM
 DELIVERABLE 2 DUE
 DELIVERABLE 3 ASSIGNED
 
-Week 7: 1 JUL: COMBINATORIAL AND PROPERTY-BASED TESTING
+Week 8: 1 JUL: COMBINATORIAL TESTING AND TESTABLE CODE
+Lecture 14: Pairwise and Combinatorial Testing
+   a. What is pairwise/combinatorial testing?
+   b. How is it useful?
+   c. The mathematics of combinatorial testing
+
+Lecture 15: Writing Testable Code
+  a. SOLID principles
+  b. Law of Demeter
+  c. Why testable code tends to be "good code"
+
+Week 9: 8 JUL: INFORMAL AND PERFORMANCE TESTING
 Lecture 12: Exploratory, Smoke, Stochastic, and Red Routes Testing
    a. Definitions
    b. Their place in the software testing process
@@ -103,24 +115,10 @@ Lecture 13. Performance Testing
   d. Key Performance Indicators (KPI)
   e. Tools - JProfiler, perfmon, etc.
   f. Scaling
-
+DELIVERABLE 3 DUE
 DELIVERABLE 4 ASSIGNED
 
-Week 8: 8 JUL: INFORMAL AND PERFORMANCE TESTING
-Lecture 14: Pairwise and Combinatorial Testing
-   a. What is pairwise/combinatorial testing?
-   b. How is it useful?
-   c. The mathematics of combinatorial testing
-
-Lecture 15: Writing Testable Code
-  a. SOLID principles
-  b. Law of Demeter
-  c. Why testable code tends to be "good code"
-
-DELIVERABLE 4 DUE
-FINAL DELIVERABLE ASSIGNED
-
-Week 9: 15 JUL: Testing As Part of The SDLC & Business
+Week 10: 15 JUL: Testing As Part of The SDLC & Business
 
 Lecture 16: Managing and Growing a QA Team
  
@@ -131,8 +129,10 @@ Lecture 17. Special Topics: Testing as a Career
   d. How to be a good tester
   e. Soft skills
   f. How does software testing compare to traditional software engineering?
+DELIVERABLE 4 DUE
+FINAL DELIVERABLE ASSIGNED
 
-Week 10: 22 JUL: USABILITY TESTING AND SECURITY TESTING
+Week 11: 22 JUL: USABILITY TESTING AND SECURITY TESTING
 Guest Lecture: Usability Testing
 
 Lecture 18: Security Testing
@@ -141,6 +141,6 @@ Lecture 18: Security Testing
   c. Penetration testing
   d. Security audits and security planning
 
-WEEK 13: 29 JUL: FINAL EXAM
+WEEK 12: 29 JUL: FINAL EXAM
 CUMULATIVE FINAL EXAM
 FINAL DELIVERABLE DUE
