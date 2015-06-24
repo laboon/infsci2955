@@ -27,7 +27,7 @@ There is no need to print out the code.  It should be put on a publicly-availabl
 
 There shall be AT LEAST 5 user stories per assignment, but there can be more. Each user story should have multiple (at least two) scenarios.
 
-There shall be at least 10 scenarios.
+There shall be at least (5 * (number of people in group)) scenarios.
 
 User stories should all follow the Connextra template.
 
@@ -39,8 +39,8 @@ Grading:
 Summary - 5%
 Testing concerns - 10%
 Screen shot or printout of test results - 5%
-User Stories and Scenarios - 40%
-Step Definitions - 40%
+User Stories and Scenarios - 30%
+Test code - 50%
 
 Reminder that all code (project under test AND test code) should be publicly available, or at least available to me, preferably on Github.
 
