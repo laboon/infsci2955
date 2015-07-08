@@ -42,6 +42,8 @@ After this, include screenshots of VisualVM (or another profiler, if you use tha
 
 Finally, issue the changes that you made as a PR against my local repo.  Remember that you will need to do all of your work in a separate branch for this to work correctly!  You shouldn't be doing work on the master branch, anyways.
 
+You will need to install VisualVM (or some other Java profiler, if you prefer) in order to complete this project.  Instructions for installing the VisualVM plug-in into Eclipse are here: http://visualvm.java.net/eclipse-launcher.html
+
 ## Grading
 * Summary - 25%
 * VisualVM (or other profile) screenshots (before and after) - 25% 
