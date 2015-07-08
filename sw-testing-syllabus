@@ -104,9 +104,6 @@ Lecture 15: Writing Testable Code
   c. Why testable code tends to be "good code"
 
 Week 9: 8 JUL: INFORMAL AND PERFORMANCE TESTING
-Lecture 12: Exploratory, Smoke, Stochastic, and Red Routes Testing
-   a. Definitions
-   b. Their place in the software testing process
 
 Lecture 13. Performance Testing
   a. Load/stress testing
@@ -120,7 +117,9 @@ DELIVERABLE 4 ASSIGNED
 
 Week 10: 15 JUL: Testing As Part of The SDLC & Business
 
-Lecture 16: Managing and Growing a QA Team
+Lecture 16: Exploratory, Smoke, Stochastic, and Red Routes Testing
+   a. Definitions
+   b. Their place in the software testing process
  
 Lecture 17. Special Topics: Testing as a Career
   a. Quality Analyst
