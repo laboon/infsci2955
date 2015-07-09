@@ -50,7 +50,7 @@ You will need to install VisualVM (or some other Java profiler, if you prefer) i
 * Method refactoring - 25%
 * JUnit Tests - 25%
 
-Reminder that you NEED TO ISSUE THIS AS A PR.  SIMPLY LINKING TO A SEPARATE GITHUB REPO IS NOT ACCEPTABLE.  
+Just do it like in Deliverable 2. =)
 
 Please feel free to email me at bill@billlaboon.com or come to office hours to discuss any problems you have. 
  
