@@ -11,7 +11,7 @@ For this assignment, you (NOT a group) will profile a Conway's Game of Life simu
 2. Writing unit tests for that method
 3. Refactoring the method to be more performant
 
-Test code will be on Github( https://github.com/laboon/JavaLife ), and should be issued __as a PULL REQUEST (PR)__ against the original repo.  
+Test code will be on Github( https://github.com/laboon/JavaLife ), and should be submitted as a fork of the original repo (as in D2).  
 
 There are no partners for this deliverable.
 
@@ -21,7 +21,7 @@ Every assignment should have a title page with:
 * The name of the student
 * The title "CS 1699 - DELIVERABLE 4: Performance Testing Conway's Game of Life"
 
-There is no need to print out the code.  It should be issued as a PR against the original repo BY THE BEGINNING OF CLASS.
+There is no need to print out the code.  A fork with the fixed method should be on GitHub by the beginning of class..
 
 In order to determine the "hot spots" of the application, you will need to run a profiler such as VisualVM (included with the JDK).  Using a profiler, determine a method you can use to measurably increase the speed of the application without modifying behavior.  You may wish to use "time" or a similar command to ensure that you have in fact reduced the amount of time necessary to execute n iterations of the World.
 
@@ -39,8 +39,6 @@ At a minimum, there should be three (3) unit tests acting as pinning tests (note
 For the summary, describe how you profiled the application and determined the method to refactor, and explain how you did so.  Additionally, explain how you refactored the method and how you chose what to unit test.  Finally, explain any challenges that arose in the process.
 
 After this, include screenshots of VisualVM (or another profiler, if you use that) both before and after the refactor.  These screenshots should include the relevant sections that let you see what method to refactor.
-
-Finally, issue the changes that you made as a PR against my local repo.  Remember that you will need to do all of your work in a separate branch for this to work correctly!  You shouldn't be doing work on the master branch, anyways.
 
 You will need to install VisualVM (or some other Java profiler, if you prefer) in order to complete this project.  Instructions for installing the VisualVM plug-in into Eclipse are here: http://visualvm.java.net/eclipse-launcher.html
 
