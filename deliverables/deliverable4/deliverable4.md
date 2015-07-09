@@ -44,6 +44,8 @@ Finally, issue the changes that you made as a PR against my local repo.  Remembe
 
 You will need to install VisualVM (or some other Java profiler, if you prefer) in order to complete this project.  Instructions for installing the VisualVM plug-in into Eclipse are here: http://visualvm.java.net/eclipse-launcher.html
 
+One student found this guide to setting up VisualVM helpful: https://blog.idrsolutions.com/2013/05/setting-up-visualvm-in-under-5-minutes/
+
 ## Grading
 * Summary - 25%
 * VisualVM (or other profile) screenshots (before and after) - 25% 
