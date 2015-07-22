@@ -1,4 +1,4 @@
-INFSCI 2955 Summer 2014 Final Study Guide
+INFSCI 2955 Summer 2015 Final Study Guide
 
 * Everything covered on the midterm; please see midterm study guide
 
@@ -8,23 +8,10 @@ WEB TESTING -
 * Be able to talk about WHY a given script is good or bad, and possible problems
 * Be able to discuss issues with testing web apps (page loading timing issues, javascript issues, etc)
 
-
 PAIRWISE/COMBINATORIAL TESTING -
 * Be able to define
 * Be able to determine when/where to use, when it might be overkill or not enough
-* Be able to make a very simple combinatorial test which matches all pairs (not doing triple or more)
 * Understand how it could be used for different realms, e.g. system combinations (OS, Browser, etc.)
-
-PROPERTY-BASED TESTING
-* Be able to define
-* Be able to develop property tests (not in any specific language) for a given pure function
-* What is useful for testing?  What is not useful for testing?
-* Understand terminology: invariants, shrinking, falsifying
-
-FORMAL VERIFICATION
-* Be able to define
-* Predictable execution, partial correctness, full correctness
-* When is this useful/not useful?
 
 EXPLORATORY TESTING
 * Be able to define
@@ -42,10 +29,6 @@ STOCHASTIC ("FUZZ") TESTING
 * Think of good inputs to push (e.g., JSON, executable code, JavaScript, SQL, etc.)
 * Understand dumb, smart, evil, chaos monkey testing
 * Other ways to test similar to chaos monkey: reduce bandwidth, modified permissions, etc
-
-RED ROUTE TESTING
-* Define red routes
-* Given a system description, be able to determine red routes and justify
 
 PERFORMANCE TESTING
 * Understand concepts on how to test performance
@@ -72,3 +55,4 @@ SECURITY TESTING
 * Terminology: interruption, interception, modification, fabrication
 * Be able to define different kinds of malware (virus, worm, etc.)
 * Be able to describe/test for common attacks: injection, broken authentication, XSS, insecure storage, buffer overruns, security misconfiguration, insecure object references, social engineering
+* Be able to describe how to perform a penetration test
